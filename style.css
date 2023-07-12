@@ -1,0 +1,37 @@
+body
+{
+  font-family: 'Raleway', sans-serif;
+  background-image: linear-gradient(to right top, #de9df7, #c586f8, #bc71fa, #9b4ef3, #ae3ef8);
+}
+
+.header_div
+{
+    background: #541f91;
+    color: black;
+}
+
+.header_div p{
+   font-family: 'Raleway', sans-serif;
+   color: rgb(126, 84, 192);
+   letter-spacing: 2px;
+   font-size: 12px;
+   font-weight: bold;
+}
+.main_div button{
+  font-family: 'Raleway', sans-serif;
+  margin-top: 30px;
+  width: 130px;
+  font-weight: bold;
+  letter-spacing: 3px;
+}
+.copy_right_footer{
+  position: fixed;
+  color: #9061d6;
+  bottom: 0;
+  width: 100%;
+  font-size: 18px;
+  background-color: #4309a0;
+  line-height: 3;
+  text-align: center;
+  text-shadow: 5px 5px 5px rgb(76, 18, 170);
+}
